@@ -21,6 +21,7 @@ Welcome to my repository showcasing the projects developed during my Python Prog
     *   **Full CRUD Operations:** Seamlessly Add, View, Search, Update, and Delete contacts.
     *   **Data Structure:** Structured using state-management principles to ensure data consistency during runtime operations.
 
+    ![contact Book GUI](app_screenshot.png)
 ---
 
 ## 💻 Tech Stack Used
@@ -29,4 +30,4 @@ Welcome to my repository showcasing the projects developed during my Python Prog
 *   **Version Control:** Git & GitHub
 
 ---
-✨ *More updates and advanced tasks will be added continuously as the internship progresses!*
+✨ *More updates and advanced tasks will be added continuously as the internship progresses!*cd
